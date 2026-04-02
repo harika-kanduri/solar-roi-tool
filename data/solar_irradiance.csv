@@ -1,6 +1,7 @@
-city,sun_hours
-Bangalore,4.5
-Hyderabad,5.0
-Mumbai,4.8
+state,sun_hours
+Karnataka,4.5
+Telangana,5.0
+Maharashtra,4.8
 Delhi,4.2
-Chennai,5.2
+Tamil Nadu,5.2
+Andhra Pradesh, 5.0

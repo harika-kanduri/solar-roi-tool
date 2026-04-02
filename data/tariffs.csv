@@ -4,10 +4,20 @@ Karnataka,101,200,6.0
 Karnataka,201,500,7.2
 Karnataka,501,1000,8.5
 
+Andhra Pradesh,0,75,3.5
+Andhra Pradesh,76,200,5.0
+Andhra Pradesh,201,500,7.0
+Andhra Pradesh,501,1000,8.5
+
 Telangana,0,100,3.5
 Telangana,101,200,5.5
 Telangana,201,500,7.0
 Telangana,501,1000,8.0
+
+Tamil Nadu,0,100,4.5
+Tamil Nadu,101,200,6.0
+Tamil Nadu,201,500,8.0
+Tamil Nadu,501,1000,9.5
 
 Maharashtra,0,100,5.0
 Maharashtra,101,200,7.5

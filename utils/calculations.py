@@ -51,9 +51,9 @@ def calculate_electricity_bill(units, state, tariffs_df):
 
 #  2. Solar generation calculation
 
-def calculate_solar_generation(system_size_kw, city, irradiance_df):
+def calculate_solar_generation(system_size_kw, state, irradiance_df):
 
-    sun_hours = irradiance_df[irradiance_df['city'] == city]['sun_hours'].values[0]
+    sun_hours = irradiance_df[irradiance_df['state'] == state]['sun_hours'].values[0]
 
     # monthly generation
 
